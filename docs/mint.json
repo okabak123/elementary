@@ -75,6 +75,16 @@
             "dbt/on-run-end_hooks",
             "dbt/package-models"
           ]
+        },
+        {
+          "group": "Best Practices Guide",
+          "icon": "check",
+          "pages": [
+            "best-practices/introduction",
+            "best-practices/governance-for-observability",
+            "best-practices/detection-and-coverage",
+            "best-practices/triage-and-response"
+          ]
         }
       ]
     },
